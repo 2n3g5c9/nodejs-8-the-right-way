@@ -3,3 +3,7 @@ node_modules/
 
 # IDE configuration
 .idea/
+
+# Data directory
+data/
+# curl -O ​​http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2
