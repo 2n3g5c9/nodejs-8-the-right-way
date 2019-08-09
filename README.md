@@ -16,6 +16,8 @@
 
 [Chapter 4 - Connecting Robust Microservices](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8//microservices)
 
+[Chapter 5 - Transforming Data and Testing Continuously](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/02_Working_with_Data/databases)
+
 ## Prerequisites
 
 To run the examples in the repository, you need to have [Node.js](https://nodejs.org/) 8 and either [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/lang/en/) installed on your computer.
