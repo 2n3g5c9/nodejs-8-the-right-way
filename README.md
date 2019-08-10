@@ -10,11 +10,11 @@
 
 ## Code quick access
 
-[Chapter 2 - Wrangling the File System](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8//filesystem)
+[Chapter 2 - Wrangling the File System](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8/filesystem)
 
-[Chapter 3 - Networking with Sockets](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8//networking)
+[Chapter 3 - Networking with Sockets](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8/networking)
 
-[Chapter 4 - Connecting Robust Microservices](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8//microservices)
+[Chapter 4 - Connecting Robust Microservices](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8/microservices)
 
 [Chapter 5 - Transforming Data and Testing Continuously](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/02_Working_with_Data/databases)
 
