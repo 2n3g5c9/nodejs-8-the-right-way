@@ -25,11 +25,7 @@ You can either use [n](https://github.com/tj/n) or [fnm](https://github.com/Schn
 
 ## How to use
 
-Simply download the dependencies with either npm or yarn and run the code:
-
-```bash
-npm install
-```
+Simply install the dependencies with either `npm` or `yarn` and run the code:
 
 ```bash
 yarn install
