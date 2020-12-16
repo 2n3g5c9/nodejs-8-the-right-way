@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/nodejs-8-the-right-way/master/img/nodejs-8-the-right-way_banner.png" alt="data-science-on-gcp">
+  <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/nodejs-8-the-right-way/master/img/banner.png" alt="data-science-on-gcp">
 </div>
 
 <br />
@@ -10,13 +10,13 @@
 
 ## Code quick access
 
-[Chapter 2 - Wrangling the File System](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8/filesystem)
+[Chapter 2 - Wrangling the File System](./01_Getting_Up_to_Speed_on_Nodejs_8/filesystem)
 
-[Chapter 3 - Networking with Sockets](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8/networking)
+[Chapter 3 - Networking with Sockets](./01_Getting_Up_to_Speed_on_Nodejs_8/networking)
 
-[Chapter 4 - Connecting Robust Microservices](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/01_Getting_Up_to_Speed_on_Nodejs_8/microservices)
+[Chapter 4 - Connecting Robust Microservices](./01_Getting_Up_to_Speed_on_Nodejs_8/microservices)
 
-[Chapter 5 - Transforming Data and Testing Continuously](https://github.com/2n3g5c9/nodejs-8-the-right-way/tree/master/02_Working_with_Data/databases)
+[Chapter 5 - Transforming Data and Testing Continuously](./02_Working_with_Data/databases)
 
 ## Prerequisites
 
